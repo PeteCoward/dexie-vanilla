@@ -13,7 +13,8 @@
     "vite": "^4.3.9"
   },
   "dependencies": {
-    "dexie": "^3.2.4",
+    "dexie": "4.0.1-alpha.17",
     "dexie-cloud-addon": "^4.0.1-beta.40"
-  }
+  },
+  "packageManager": "yarn@3.6.0"
 }

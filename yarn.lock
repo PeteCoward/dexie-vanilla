@@ -392,17 +392,17 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "dexie-vanilla@workspace:."
   dependencies:
-    dexie: ^3.2.4
+    dexie: 4.0.1-alpha.17
     dexie-cloud-addon: ^4.0.1-beta.40
     typescript: ^5.0.2
     vite: ^4.3.9
   languageName: unknown
   linkType: soft
 
-"dexie@npm:^3.2.4":
-  version: 3.2.4
-  resolution: "dexie@npm:3.2.4"
-  checksum: 4e5294a954118b6862c864b8c3970904a1733daebcd919488624520696411e2e81ed1bceeac3634c5c15a21e37ce4b8502ed41c4edfbc5ba3f5925c34d56497b
+"dexie@npm:4.0.1-alpha.17":
+  version: 4.0.1-alpha.17
+  resolution: "dexie@npm:4.0.1-alpha.17"
+  checksum: 9548381fdb984fdd593f1147119d2efa5978ef8ad5955c20ee10bf93cbbae84f1b1c1a3d7ab8ed0618446ab0bae530efa95d078c749c053f29b0f94c9111d3ee
   languageName: node
   linkType: hard
 
